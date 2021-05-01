@@ -50,7 +50,7 @@
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">2523</feat><!-- który, to, które, która, co, którzy, ta, ten, każdy, rząd -->
     <feat name="Case" value="Voc" upos="NOUN">1</feat><!-- Ludzie -->
     <feat name="Clitic" value="Yes" upos="AUX">26</feat><!-- em, m, śmy, ście -->
-    <feat name="ConjType" value="Cmpr" upos="SCONJ">55</feat><!-- jak, niż -->
+    <feat name="ConjType" value="Comp" upos="SCONJ">55</feat><!-- jak, niż -->
     <feat name="ConjType" value="Pred" upos="SCONJ">56</feat><!-- jako -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">85</feat><!-- bardziej, wcześniej, później, mniej, więcej, dalej, lepiej, dalsze, dalszemu, późniejszych -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV">2148</feat><!-- jak, tak, bardzo, często, I, II, jednym, ostatnich, 1, całkowicie -->
