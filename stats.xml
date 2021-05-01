@@ -33,7 +33,7 @@
     <tag name="X">230</tag><!-- rok, przed naszą erą, wiek, of, the, de, miliard, święty, 2004, 2016 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="87">
+  <feats unique="86">
     <feat name="Abbr" value="Yes" upos="X">154</feat><!-- r, p.n.e, w, mld, św, C, n.e, ws, Z, dr -->
     <feat name="AdpType" value="Post" upos="ADP">3</feat><!-- temu -->
     <feat name="AdpType" value="Prep" upos="ADP">2047</feat><!-- w, na, z, do, o, po, przez, od, dla, za -->
@@ -55,7 +55,6 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">85</feat><!-- bardziej, wcześniej, później, mniej, więcej, dalej, lepiej, dalsze, dalszemu, późniejszych -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV">2148</feat><!-- jak, tak, bardzo, często, I, II, jednym, ostatnich, 1, całkowicie -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">56</feat><!-- najbardziej, najwyższym, najlepszym, największym, najwyższy, najgorszych, najlepszych, najmniej, najnowsze, najważniejszych -->
-    <feat name="Foreign" value="No" upos="X">1</feat><!-- dala -->
     <feat name="Foreign" value="Yes" upos="X">54</feat><!-- of, the, de, El, Von, 'Ya, A, Breaking, Buck, Century -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3204</feat><!-- jej, była, która, została, części, swojej, wojny, które, ta, ją -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5022</feat><!-- jego, był, który, lat, został, tym, ich, roku, ten, powiedział -->

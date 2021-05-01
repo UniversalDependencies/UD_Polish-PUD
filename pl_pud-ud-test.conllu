@@ -22011,7 +22011,7 @@
 7	Południowej	południowy	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod:flat	6:amod:flat	SpaceAfter=No
 8	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	_
 9	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	12	case	12:case	Case=Gen
-10	dala	dala	X	frag	Foreign=No	9	fixed	9:fixed	_
+10	dala	dala	X	frag	_	9	fixed	9:fixed	_
 11	od	od	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	9	fixed	9:fixed	Case=Gen
 12	problemów	problem	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod	_
 13	powojennej	powojenny	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	14:amod	_
