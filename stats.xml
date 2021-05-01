@@ -33,7 +33,7 @@
     <tag name="X">230</tag><!-- rok, przed naszą erą, wiek, of, the, de, miliard, święty, 2004, 2016 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="88">
+  <feats unique="87">
     <feat name="Abbr" value="Yes" upos="X">154</feat><!-- r, p.n.e, w, mld, św, C, n.e, ws, Z, dr -->
     <feat name="AdpType" value="Post" upos="ADP">3</feat><!-- temu -->
     <feat name="AdpType" value="Prep" upos="ADP">2047</feat><!-- w, na, z, do, o, po, przez, od, dla, za -->
@@ -99,9 +99,8 @@
     <feat name="PunctType" value="Brck" upos="PUNCT">68</feat><!-- (, ) -->
     <feat name="PunctType" value="Colo" upos="PUNCT">22</feat><!-- : -->
     <feat name="PunctType" value="Comm" upos="PUNCT">1073</feat><!-- , -->
-    <feat name="PunctType" value="Dash" upos="PUNCT">99</feat><!-- —, – -->
+    <feat name="PunctType" value="Dash" upos="PUNCT">118</feat><!-- —, –, - -->
     <feat name="PunctType" value="Elip" upos="PUNCT">3</feat><!-- … -->
-    <feat name="PunctType" value="Hyph" upos="PUNCT">19</feat><!-- - -->
     <feat name="PunctType" value="Peri" upos="PUNCT">1119</feat><!-- . -->
     <feat name="PunctType" value="Qest" upos="PUNCT">14</feat><!-- ? -->
     <feat name="PunctType" value="Quot" upos="PUNCT">222</feat><!-- ”, „ -->
