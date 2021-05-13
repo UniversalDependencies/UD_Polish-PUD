@@ -33,7 +33,7 @@
     <tag name="X">230</tag><!-- rok, przed naszą erą, wiek, of, the, de, miliard, święty, 2004, 2016 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="88">
+  <feats unique="86">
     <feat name="Abbr" value="Yes" upos="X">154</feat><!-- r, p.n.e, w, mld, św, C, n.e, ws, Z, dr -->
     <feat name="AdpType" value="Post" upos="ADP">3</feat><!-- temu -->
     <feat name="AdpType" value="Prep" upos="ADP">2047</feat><!-- w, na, z, do, o, po, przez, od, dla, za -->
@@ -50,12 +50,11 @@
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">2523</feat><!-- który, to, które, która, co, którzy, ta, ten, każdy, rząd -->
     <feat name="Case" value="Voc" upos="NOUN">1</feat><!-- Ludzie -->
     <feat name="Clitic" value="Yes" upos="AUX">26</feat><!-- em, m, śmy, ście -->
-    <feat name="ConjType" value="Cmpr" upos="SCONJ">55</feat><!-- jak, niż -->
+    <feat name="ConjType" value="Comp" upos="SCONJ">55</feat><!-- jak, niż -->
     <feat name="ConjType" value="Pred" upos="SCONJ">56</feat><!-- jako -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">85</feat><!-- bardziej, wcześniej, później, mniej, więcej, dalej, lepiej, dalsze, dalszemu, późniejszych -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV">2148</feat><!-- jak, tak, bardzo, często, I, II, jednym, ostatnich, 1, całkowicie -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">56</feat><!-- najbardziej, najwyższym, najlepszym, największym, najwyższy, najgorszych, najlepszych, najmniej, najnowsze, najważniejszych -->
-    <feat name="Foreign" value="No" upos="X">1</feat><!-- dala -->
     <feat name="Foreign" value="Yes" upos="X">54</feat><!-- of, the, de, El, Von, 'Ya, A, Breaking, Buck, Century -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3204</feat><!-- jej, była, która, została, części, swojej, wojny, które, ta, ją -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5022</feat><!-- jego, był, który, lat, został, tym, ich, roku, ten, powiedział -->
@@ -99,9 +98,8 @@
     <feat name="PunctType" value="Brck" upos="PUNCT">68</feat><!-- (, ) -->
     <feat name="PunctType" value="Colo" upos="PUNCT">22</feat><!-- : -->
     <feat name="PunctType" value="Comm" upos="PUNCT">1073</feat><!-- , -->
-    <feat name="PunctType" value="Dash" upos="PUNCT">99</feat><!-- —, – -->
+    <feat name="PunctType" value="Dash" upos="PUNCT">118</feat><!-- —, –, - -->
     <feat name="PunctType" value="Elip" upos="PUNCT">3</feat><!-- … -->
-    <feat name="PunctType" value="Hyph" upos="PUNCT">19</feat><!-- - -->
     <feat name="PunctType" value="Peri" upos="PUNCT">1119</feat><!-- . -->
     <feat name="PunctType" value="Qest" upos="PUNCT">14</feat><!-- ? -->
     <feat name="PunctType" value="Quot" upos="PUNCT">222</feat><!-- ”, „ -->
