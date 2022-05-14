@@ -30,6 +30,8 @@ If you use the Polish PUD treebank, you are encouraged to cite this paper:
 
 # Changelog
 
+* 2022-05-15 v2.10
+  * Restored the sentence ids that are used in all PUD treebanks.
 * 2019-11-15 v2.5
   * Fixed nominal dependents of nouns that were attached as obl; correct: nmod.
   * Fixed adjectival participle dependents of nouns that were attached as amod; correct acl.
