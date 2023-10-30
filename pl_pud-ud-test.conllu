@@ -3482,27 +3482,27 @@
 30	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	_
 
 # sent_id = n01061016
-# text = Ale w miarę, jak krytyka wobec Clinton w roli pierwszej damy stawała się bardziej złośliwa, Karel okazywała więcej empatii.
+# text = Ale w miarę jak krytyka wobec Clinton w roli pierwszej damy stawała się bardziej złośliwa, Karel okazywała więcej empatii.
 # text_en = But, as the criticism of Clinton as First Lady became more caustic, Karel became more empathetic.
 1	Ale	ale	CCONJ	conj	_	18	cc	18:cc	_
 2	w	w	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	12	mark	12:mark	Case=Acc
-3	miarę	miara	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	2	fixed	2:fixed	SpaceAfter=No
-4	jak	jak	SCONJ	comp	_	2	fixed	2:fixed	SpaceAfter=No
-5	krytyka	krytyka	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	12:nsubj	SpaceAfter=No
-6	wobec	wobec	ADP	prep:gen	AdpType=Prep	7	case	7:case	Case=Gen|SpaceAfter=No
-7	Clinton	Clinton	PROPN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	SpaceAfter=No
-8	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	11	case	11:case	Case=Loc|SpaceAfter=No
+3	miarę	miara	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	2	fixed	2:fixed	_
+4	jak	jak	SCONJ	comp	_	2	fixed	2:fixed	_
+5	krytyka	krytyka	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	12:nsubj	_
+6	wobec	wobec	ADP	prep:gen	AdpType=Prep	7	case	7:case	Case=Gen
+7	Clinton	Clinton	PROPN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
+8	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	11	case	11:case	Case=Loc
 9	roli	rola	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	8	fixed	8:fixed	_
-10	pierwszej	pierwszy	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	11:amod	SpaceAfter=No
-11	damy	dama	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	SpaceAfter=No
-12	stawała	stawać	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	18:advcl	SpaceAfter=No
-13	się	się	PRON	part	PronType=Prs|Reflex=Yes	12	expl:pv	12:expl:pv	SpaceAfter=No
-14	bardziej	bardzo	ADV	adv:com	Degree=Cmp	15	advmod	15:advmod	SpaceAfter=No
+10	pierwszej	pierwszy	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	11:amod	_
+11	damy	dama	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
+12	stawała	stawać	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	18:advcl	_
+13	się	się	PRON	part	PronType=Prs|Reflex=Yes	12	expl:pv	12:expl:pv	_
+14	bardziej	bardzo	ADV	adv:com	Degree=Cmp	15	advmod	15:advmod	_
 15	złośliwa	złośliwy	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	iobj	12:iobj	SpaceAfter=No
-16	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	SpaceAfter=No
-17	Karel	Karel	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	18:nsubj	SpaceAfter=No
-18	okazywała	okazywać	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-19	więcej	więcej	DET	num:sg:acc:f:rec	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	20	det:numgov	20:det:numgov	SpaceAfter=No
+16	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	_
+17	Karel	Karel	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	18:nsubj	_
+18	okazywała	okazywać	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+19	więcej	więcej	DET	num:sg:acc:f:rec	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	20	det:numgov	20:det:numgov	_
 20	empatii	empatia	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	18	obj	18:obj	SpaceAfter=No
 21	.	.	PUNCT	interp	PunctType=Peri	18	punct	18:punct	_
 
@@ -4972,31 +4972,31 @@
 18	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	_
 
 # sent_id = n01090004
-# text = W miarę, jak przyglądałam się motocrossowi, wciąż powracała twarz jednej kobiety na zdjęciach, które wyglądały na zrobione w latach 70.
+# text = W miarę jak przyglądałam się motocrossowi, wciąż powracała twarz jednej kobiety na zdjęciach, które wyglądały na zrobione w latach 70.
 # text_en = I looked at motocross and the more I looked, this one woman’s face kept coming up, in photographs that looked as if they were from the 1970s.
 1	W	w	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	4	mark	4:mark	Case=Acc
-2	miarę	miara	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	1	fixed	1:fixed	SpaceAfter=No
-3	jak	jak	SCONJ	comp	_	1	fixed	1:fixed	SpaceAfter=No
-4-5	przyglądałam	_	_	_	_	_	_	_	SpaceAfter=No
+2	miarę	miara	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	1	fixed	1:fixed	_
+3	jak	jak	SCONJ	comp	_	1	fixed	1:fixed	_
+4-5	przyglądałam	_	_	_	_	_	_	_	_
 4	przyglądała	przyglądać	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	10:advcl	_
 5	m	być	AUX	aglt:sg:pri:imperf:nwok	Aspect=Imp|Number=Sing|Person=1|Variant=Short	4	aux:clitic	4:aux:clitic	_
 6	się	się	PRON	part	PronType=Prs|Reflex=Yes	4	expl:pv	4:expl:pv	_
 7	motocrossowi	motocross	NOUN	subst:sg:dat:m3	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	iobj	4:iobj	SpaceAfter=No
-8	,	,	PUNCT	interp	PunctType=Comm	4	punct	4:punct	SpaceAfter=No
-9	wciąż	wciąż	ADV	adv	_	10	advmod	10:advmod	SpaceAfter=No
-10	powracała	powracać	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-11	twarz	twarz	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	10:nsubj	SpaceAfter=No
-12	jednej	jeden	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	13:amod	SpaceAfter=No
-13	kobiety	kobieta	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	11	nmod	11:nmod	SpaceAfter=No
-14	na	na	ADP	prep:loc	AdpType=Prep	15	case	15:case	Case=Loc|SpaceAfter=No
+8	,	,	PUNCT	interp	PunctType=Comm	4	punct	4:punct	_
+9	wciąż	wciąż	ADV	adv	_	10	advmod	10:advmod	_
+10	powracała	powracać	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+11	twarz	twarz	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	10:nsubj	_
+12	jednej	jeden	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	13:amod	_
+13	kobiety	kobieta	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	11	nmod	11:nmod	_
+14	na	na	ADP	prep:loc	AdpType=Prep	15	case	15:case	Case=Loc
 15	zdjęciach	zdjęcie	NOUN	subst:pl:loc:n:ncol	Case=Loc|Gender=Neut|Number=Plur	10	obl	10:obl	SpaceAfter=No
 16	,	,	PUNCT	interp	PunctType=Comm	18	punct	18:punct	_
-17	które	który	DET	adj:pl:nom:n:pos	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	18	nsubj	18:nsubj	SpaceAfter=No
-18	wyglądały	wyglądać	VERB	praet:pl:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	15:acl:relcl	SpaceAfter=No
+17	które	który	DET	adj:pl:nom:n:pos	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	18	nsubj	18:nsubj	_
+18	wyglądały	wyglądać	VERB	praet:pl:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	15:acl:relcl	_
 19	na	na	ADP	prep:acc	AdpType=Prep	20	case	20:case	Case=Acc
-20	zrobione	zrobić	ADJ	ppas:pl:acc:n:perf:aff	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	18	obl:arg	18:obl:arg	SpaceAfter=No
+20	zrobione	zrobić	ADJ	ppas:pl:acc:n:perf:aff	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	18	obl:arg	18:obl:arg	_
 21	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	22	case	22:case	Case=Loc
-22	latach	rok	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	20	obl	20:obl	SpaceAfter=No
+22	latach	rok	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	20	obl	20:obl	_
 23	70	70	ADJ	adj:pl:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Ord	22	amod	22:amod	SpaceAfter=No
 24	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	_
 
@@ -10398,29 +10398,29 @@
 13	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	_
 
 # sent_id = w01039058
-# text = W miarę, jak Brisbane się rozwijało, stan rzeki pogarszał się, aż w najgorszych czasach stała się otwartym ściekiem i wysypiskiem.
+# text = W miarę jak Brisbane się rozwijało, stan rzeki pogarszał się, aż w najgorszych czasach stała się otwartym ściekiem i wysypiskiem.
 # text_en = As Brisbane grew, the condition of the river worsened until at its worst it was no more than an open sewer and waste dump.
 1	W	w	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	6	mark	6:mark	Case=Acc
-2	miarę	miara	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	1	fixed	1:fixed	SpaceAfter=No
-3	jak	jak	SCONJ	comp	_	1	fixed	1:fixed	SpaceAfter=No
-4	Brisbane	Brisbane	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	6:nsubj	SpaceAfter=No
+2	miarę	miara	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	1	fixed	1:fixed	_
+3	jak	jak	SCONJ	comp	_	1	fixed	1:fixed	_
+4	Brisbane	Brisbane	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	6:nsubj	_
 5	się	się	PRON	part	PronType=Prs|Reflex=Yes	6	expl:pv	6:expl:pv	_
 6	rozwijało	rozwijać	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	10:advcl	SpaceAfter=No
-7	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	SpaceAfter=No
+7	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
 8	stan	stan	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	_
-9	rzeki	rzeka	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	8	nmod:arg	8:nmod:arg	SpaceAfter=No
-10	pogarszał	pogarszać	VERB	praet:sg:m3:imperf	Animacy=Inan|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+9	rzeki	rzeka	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	8	nmod:arg	8:nmod:arg	_
+10	pogarszał	pogarszać	VERB	praet:sg:m3:imperf	Animacy=Inan|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 11	się	się	PRON	part	PronType=Prs|Reflex=Yes	10	expl:pv	10:expl:pv	SpaceAfter=No
-12	,	,	PUNCT	interp	PunctType=Comm	17	punct	17:punct	SpaceAfter=No
+12	,	,	PUNCT	interp	PunctType=Comm	17	punct	17:punct	_
 13	aż	aż	SCONJ	comp	_	17	mark	17:mark	_
-14	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	16	case	16:case	Case=Loc|SpaceAfter=No
-15	najgorszych	zły	ADJ	adj:pl:loc:m3:sup	Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Number=Plur	16	amod	16:amod	SpaceAfter=No
-16	czasach	czas	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	17	obl	17:obl	SpaceAfter=No
-17	stała	stać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	10:advcl	SpaceAfter=No
-18	się	się	PRON	part	PronType=Prs|Reflex=Yes	17	expl:pv	17:expl:pv	SpaceAfter=No
+14	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	16	case	16:case	Case=Loc
+15	najgorszych	zły	ADJ	adj:pl:loc:m3:sup	Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Number=Plur	16	amod	16:amod	_
+16	czasach	czas	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	17	obl	17:obl	_
+17	stała	stać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	10:advcl	_
+18	się	się	PRON	part	PronType=Prs|Reflex=Yes	17	expl:pv	17:expl:pv	_
 19	otwartym	otwarty	ADJ	adj:sg:inst:m3:pos	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	20	amod	20:amod	_
-20	ściekiem	ściek	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	xcomp:pred	17:xcomp:pred	SpaceAfter=No
-21	i	i	CCONJ	conj	_	22	cc	22:cc	SpaceAfter=No
+20	ściekiem	ściek	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	xcomp:pred	17:xcomp:pred	_
+21	i	i	CCONJ	conj	_	22	cc	22:cc	_
 22	wysypiskiem	wysypisko	NOUN	subst:sg:inst:n:ncol	Case=Ins|Gender=Neut|Number=Sing	20	conj	17:xcomp:pred|20:conj	SpaceAfter=No
 23	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	_
 
@@ -15845,7 +15845,7 @@
 10	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	_
 
 # sent_id = w01134062
-# text = W 1955 r. Mishima zaczął ćwiczyć z ciężarami i nieprzerwanie przestrzegał treningów trzy razy w tygodniu przez ostatnich 15 lat swojego życia.
+# text = W 1955 r. Mishima zaczął ćwiczyć z ciężarami i nieprzerwanie przestrzegał treningów trzy razy w tygodniu przez ostatnie 15 lat swojego życia.
 # text_en = In 1955, Mishima took up weight training and his workout regimen of three sessions per week was not disrupted for the final 15 years of his life.
 1	W	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	3	case	3:case	Case=Loc
 2	1955	1955	ADJ	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	3	amod:flat	3:amod:flat	_
@@ -15865,10 +15865,10 @@
 16	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	17	case	17:case	Case=Loc
 17	tygodniu	tydzień	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	12:obl	_
 18	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	21	case	21:case	Case=Acc
-19	ostatnie	ostatni	ADJ	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	21	amod	21:amod	SpaceAfter=No
-20	15	15	NUM	num:pl:acc:m3:rec	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	21	nummod:gov	21:nummod:gov	SpaceAfter=No
-21	lat	rok	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	obl	12:obl	SpaceAfter=No
-22	swojego	swój	DET	adj:sg:gen:n:pos	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	23	det:poss	23:det:poss	SpaceAfter=No
+19	ostatnie	ostatni	ADJ	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	21	amod	21:amod	_
+20	15	15	NUM	num:pl:acc:m3:rec	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	21	nummod:gov	21:nummod:gov	_
+21	lat	rok	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	obl	12:obl	_
+22	swojego	swój	DET	adj:sg:gen:n:pos	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	23	det:poss	23:det:poss	_
 23	życia	życie	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	21	nmod	21:nmod	SpaceAfter=No
 24	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_
 
