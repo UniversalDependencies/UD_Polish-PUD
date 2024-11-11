@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Polish-PUD:
-commit d2b9f8d1aac67b7e852c871990c18472ec4346f0
+commit bca8ab37a1c496124eeb5003847652c578f08823
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:50:15 2023 +0100
+Date:   Sun May 5 13:14:37 2024 +0200
 Size: counted 18384 of 18384 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.8229614422128.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -36,7 +36,7 @@ Genres: found 2 out of 17 known.
 [Line 203 Sent n01003010 Node 30]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 202 Sent n01003010 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 ...suppressing further errors regarding Warning
-Warnings: 24
+Warnings: 25
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
