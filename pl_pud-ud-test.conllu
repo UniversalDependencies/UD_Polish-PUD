@@ -693,7 +693,7 @@
 31	Keira	Keira	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	30	iobj	30:iobj	SpaceAfter=No
 32	,	,	PUNCT	interp	PunctType=Comm	34	punct	34:punct	_
 33	niż	niż	SCONJ	comp	ConjType=Comp	34	mark	34:mark	_
-34	Kiera	Kiera	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	30	acl:cmpr	30:acl:cmpr	SpaceAfter=No
+34	Kiera	Kiera	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	30	acl:cmp	30:acl:cmp	SpaceAfter=No
 35	.	.	PUNCT	interp	PunctType=Peri	20	punct	20:punct	_
 
 # sent_id = n01016014
@@ -749,10 +749,10 @@
 10	inteligencję	inteligencja	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	7	obl:arg	7:obl:arg	SpaceAfter=No
 11	,	,	PUNCT	interp	PunctType=Comm	13	punct	13:punct	_
 12	jak	jak	SCONJ	comp	ConjType=Comp	13	mark	13:mark|16:mark	_
-13	Google	Google	X	ign	Foreign=Yes	5	advcl:cmpr	5:advcl:cmpr	_
+13	Google	Google	X	ign	Foreign=Yes	5	advcl:cmp	5:advcl:cmp	_
 14	Assistant	Assistant	X	ign	Foreign=Yes	13	flat:foreign	13:flat:foreign	_
 15	czy	czy	CCONJ	conj	_	16	cc	16:cc	_
-16	Siri	Siri	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	13	conj	5:advcl:cmpr|13:conj	_
+16	Siri	Siri	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	13	conj	5:advcl:cmp|13:conj	_
 17	Apple’a	Apple	PROPN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	16	nmod:poss	16:nmod:poss	SpaceAfter=No
 18	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	_
 
@@ -853,7 +853,7 @@
 11	na	na	ADP	prep:loc	AdpType=Prep	12	case	12:case	Case=Loc
 12	lotnisku	lotnisko	NOUN	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing	8	nmod	8:nmod	_
 13	niż	niż	SCONJ	comp	ConjType=Comp	14	mark	14:mark	_
-14	możliwość	możliwość	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	7	advcl:cmpr	7:advcl:cmpr	_
+14	możliwość	możliwość	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	7	advcl:cmp	7:advcl:cmp	_
 15	wysyłania	wysyłać	NOUN	ger:sg:gen:n:imperf:aff	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	14	nmod:arg	14:nmod:arg	_
 16	mejli	mejl	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	obj	15:obj	_
 17	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	18	case	18:case	Case=Gen
@@ -869,7 +869,7 @@
 3	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 4	takie	taki	DET	adj:sg:nom:n:pos	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	0:root	_
 5	jak	jak	SCONJ	comp	ConjType=Comp	6	mark	6:mark	_
-6	supermoc	supermoc	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	acl:cmpr	4:acl:cmpr	SpaceAfter=No
+6	supermoc	supermoc	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	advcl:cmp	4:advcl:cmp	SpaceAfter=No
 7	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 
 # sent_id = n01018040
@@ -1045,7 +1045,7 @@
 16	wyłączenie	wyłączyć	NOUN	ger:sg:acc:n:perf:aff	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	14	obj	14:obj	_
 17	popularnych	popularny	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	18	amod	18:amod	_
 18	stron	strona	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	16	obj	16:obj	_
-19	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	18	amod:cmpr	18:amod:cmpr	_
+19	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	18	amod:cmp	18:amod:cmp	_
 20	jak	jak	SCONJ	comp	_	21	mark	21:mark|23:mark|25:mark|28:mark	_
 21	Reddit	Reddit	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	ccomp	19:ccomp	SpaceAfter=No
 22	,	,	PUNCT	interp	PunctType=Comm	23	punct	23:punct	_
@@ -1146,7 +1146,7 @@
 10	zmiany	zmiana	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	9	obj	9:obj	_
 11	klimatyczne	klimatyczny	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	10	amod	10:amod	SpaceAfter=No
 12	,	,	PUNCT	interp	PunctType=Comm	13	punct	13:punct	_
-13	podobnie	podobnie	ADV	adv:pos	Degree=Pos	9	obl:cmpr	9:obl:cmpr	_
+13	podobnie	podobnie	ADV	adv:pos	Degree=Pos	9	advmod:cmp	9:advmod:cmp	_
 14	jak	jak	SCONJ	comp	_	16	mark	16:mark	_
 15	niedawna	niedawny	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	16:amod	_
 16	poprawka	poprawka	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	13	ccomp	13:ccomp	_
@@ -1295,7 +1295,7 @@
 20	więcej	więcej	DET	num:pl:nom:m3:rec	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	13	conj	0:root|13:conj	_
 21	niż	niż	SCONJ	comp	ConjType=Comp	23	mark	23:mark	_
 22	66	66	NUM	num:pl:nom:m3:rec	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	23	nummod:gov	23:nummod:gov	SpaceAfter=No
-23	%	procent	NOUN	brev:npun	Abbr=Yes	20	acl:cmpr	20:acl:cmpr	_
+23	%	procent	NOUN	brev:npun	Abbr=Yes	20	advcl:cmp	20:advcl:cmp	_
 24	w	w	ADP	prep:loc:nwok	AdpType=Prep|ExtPos=ADP|Variant=Short	26	case	26:case	Case=Loc
 25	przypadku	przypadek	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	fixed	24:fixed	_
 26	roślin	roślina	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	20	nmod	20:nmod	_
@@ -1850,7 +1850,7 @@
 12	bezpośrednie	bezpośredni	ADJ	adj:sg:acc:n:pos	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	13:amod	_
 13	działanie	działanie	NOUN	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing	10	obl:arg	10:obl:arg	SpaceAfter=No
 14	,	,	PUNCT	interp	PunctType=Comm	15	punct	15:punct	_
-15	takich	taki	DET	adj:pl:loc:f:pos	Case=Loc|Gender=Fem|Number=Plur|PronType=Dem	9	amod:cmpr	9:amod:cmpr	_
+15	takich	taki	DET	adj:pl:loc:f:pos	Case=Loc|Gender=Fem|Number=Plur|PronType=Dem	9	amod:cmp	9:amod:cmp	_
 16	jak	jak	SCONJ	comp	_	17	mark	17:mark	_
 17	pęcherz	pęcherz	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	ccomp	15:ccomp	_
 18	moczowy	moczowy	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	17:amod	SpaceAfter=No
@@ -1974,7 +1974,7 @@
 13	więcej	więcej	DET	num:pl:acc:n:rec	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	14	det:numgov	14:det:numgov	_
 14	pytań	pytanie	NOUN	subst:pl:gen:n:ncol	Case=Gen|Gender=Neut|Number=Plur	12	iobj	12:iobj	_
 15	niż	niż	SCONJ	comp	ConjType=Comp	16	mark	16:mark	_
-16	odpowiedzi	odpowiedź	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	12	advcl:cmpr	12:advcl:cmpr	_
+16	odpowiedzi	odpowiedź	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	12	advcl:cmp	12:advcl:cmp	_
 17	w	w	ADP	prep:loc:nwok	AdpType=Prep|ExtPos=ADP|Variant=Short	21	case	21:case	Case=Loc
 18	sprawie	sprawa	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	17	fixed	17:fixed	_
 19	najwyraźniej	najwyraźniej	PART	part	_	20	advmod:emph	20:advmod:emph	_
@@ -2181,7 +2181,7 @@
 14	powietrze	powietrze	NOUN	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing	9	obl:arg	9:obl:arg	_
 15	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	16	case	16:case	Case=Loc
 16	miastach	miasto	NOUN	subst:pl:loc:n:ncol	Case=Loc|Gender=Neut|Number=Plur	14	nmod	14:nmod	_
-17	takich	taki	DET	adj:pl:loc:n:pos	Case=Loc|Gender=Neut|Number=Plur|PronType=Dem	16	amod:cmpr	16:amod:cmpr	_
+17	takich	taki	DET	adj:pl:loc:n:pos	Case=Loc|Gender=Neut|Number=Plur|PronType=Dem	16	amod:cmp	16:amod:cmp	_
 18	jak	jak	SCONJ	comp	_	25	mark	25:mark	_
 19	nękany	nękać	ADJ	ppas:sg:nom:m3:imperf:aff	Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	25	amod	25:amod	_
 20	dzień	dzień	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	obl	19:obl	_
@@ -2332,7 +2332,7 @@
 # text = Uczniowie tacy jak Rai spotykali się w szkole z psychologami, aby rozmawiać o tym, co się wydarzyło, ale, jak sama powiedziała, najwięcej pociechy przyniósł jej kontakt z przyjaciółmi.
 # text_en = Students like Rai have been meeting with counsellors at the school to talk about what happened, but she said the biggest comfort has come from seeing her friends.
 1	Uczniowie	uczeń	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	5:nsubj	_
-2	tacy	taki	DET	adj:pl:nom:m1:pos	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	1	amod:cmpr	1:amod:cmpr	_
+2	tacy	taki	DET	adj:pl:nom:m1:pos	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	1	amod:cmp	1:amod:cmp	_
 3	jak	jak	SCONJ	comp	_	4	mark	4:mark	_
 4	Rai	Rai	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	2:ccomp	_
 5	spotykali	spotykać	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -2574,7 +2574,7 @@
 13	miliona	milion	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	flat	12:flat	_
 14	dolarów	dolar	NOUN	subst:pl:gen:m2	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur	8	iobj	8:iobj	SpaceAfter=No
 15	,	,	PUNCT	interp	PunctType=Comm	16	punct	16:punct	_
-16	podobnie	podobnie	ADV	adv:pos	Degree=Pos	8	obl:cmpr	8:obl:cmpr	SpaceAfter=No
+16	podobnie	podobnie	ADV	adv:pos	Degree=Pos	8	advmod:cmp	8:advmod:cmp	SpaceAfter=No
 17	,	,	PUNCT	interp	PunctType=Comm	16	punct	16:punct	_
 18	jak	jak	SCONJ	comp	_	20	mark	20:mark	_
 19	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	20	case	20:case	Case=Loc
@@ -2735,7 +2735,7 @@
 9	więcej	więcej	DET	num:pl:nom:m3:rec	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	0	root	0:root	SpaceAfter=No
 10	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	_
 11	niż	niż	SCONJ	comp	ConjType=Comp	12	mark	12:mark	_
-12	telefony	telefon	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	acl:cmpr	9:acl:cmpr	SpaceAfter=No
+12	telefony	telefon	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	advcl:cmp	9:advcl:cmp	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	_
 
 # sent_id = n01046036
@@ -3437,7 +3437,7 @@
 12	różnic	różnica	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	10	nsubj	10:nsubj	SpaceAfter=No
 13	,	,	PUNCT	interp	PunctType=Comm	15	punct	15:punct	_
 14	niż	niż	SCONJ	comp	ConjType=Comp	15	mark	15:mark	_
-15	podobieństw	podobieństwo	NOUN	subst:pl:gen:n:ncol	Case=Gen|Gender=Neut|Number=Plur	10	advcl:cmpr	10:advcl:cmpr	SpaceAfter=No
+15	podobieństw	podobieństwo	NOUN	subst:pl:gen:n:ncol	Case=Gen|Gender=Neut|Number=Plur	10	advcl:cmp	10:advcl:cmp	SpaceAfter=No
 16	,	,	PUNCT	interp	PunctType=Comm	15	punct	15:punct	_
 17	ale	ale	CCONJ	conj	_	20	cc	20:cc	_
 18	to	to	PRON	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	20	nsubj	20:nsubj	_
@@ -3550,7 +3550,7 @@
 12	poważniejszego	poważny	ADJ	adj:sg:nom:f:com	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	11	amod	11:amod	SpaceAfter=No
 13	,	,	PUNCT	interp	PunctType=Comm	15	punct	15:punct	_
 14	niż	niż	SCONJ	comp	ConjType=Comp	15	mark	15:mark	_
-15	bzdury	bzdura	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	11	acl:cmpr	11:acl:cmpr	SpaceAfter=No
+15	bzdury	bzdura	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	11	acl:cmp	11:acl:cmp	SpaceAfter=No
 16	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	_
 
 # sent_id = n01062035
@@ -3693,7 +3693,7 @@
 2	wiele	wiele	DET	num:pl:nom:f:rec	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	5	det:numgov	5:det:numgov	_
 3	znanych	znany	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	5	amod	5:amod	_
 4	mi	ja	PRON	ppron12:sg:dat:m1:pri:nakc	Animacy=Hum|Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Short	3	iobj	3:iobj	_
-5	osób	osoba	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	10	advcl:cmpr	10:advcl:cmpr	SpaceAfter=No
+5	osób	osoba	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	10	advcl:cmp	10:advcl:cmp	SpaceAfter=No
 6	,	,	PUNCT	interp	PunctType=Comm	5	punct	5:punct	_
 7	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Acc
 8	ostatnie	ostatni	ADJ	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	9	amod	9:amod	_
@@ -3731,7 +3731,7 @@
 16	racjonalne	racjonalny	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	obl	10:obl	SpaceAfter=No
 17	,	,	PUNCT	interp	PunctType=Comm	19	punct	19:punct	_
 18	niż	niż	SCONJ	comp	ConjType=Comp	19	mark	19:mark	_
-19	zabijanie	zabijać	NOUN	ger:sg:nom:n:imperf:aff	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	16	acl:cmpr	16:acl:cmpr	_
+19	zabijanie	zabijać	NOUN	ger:sg:nom:n:imperf:aff	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	16	acl:cmp	16:acl:cmp	_
 20	faraona	faraon	NOUN	subst:sg:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing	19	obj	19:obj	SpaceAfter=No
 21	,	,	PUNCT	interp	PunctType=Comm	25	punct	25:punct	_
 22	gdy	gdy	ADV	adv	_	25	advmod	25:advmod	_
@@ -4054,7 +4054,7 @@
 13	10	10	NUM	num:pl:acc:m3:rec	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	14	nummod:gov	14:nummod:gov	_
 14	dni	dzień	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	obl	10:obl	SpaceAfter=No
 15	,	,	PUNCT	interp	PunctType=Comm	16	punct	16:punct	_
-16	tak	tak	ADV	adv:pos	Degree=Pos|ExtPos=ADV|PronType=Dem	10	obl:cmpr	10:obl:cmpr	_
+16	tak	tak	ADV	adv:pos	Degree=Pos|ExtPos=ADV|PronType=Dem	10	advmod:cmp	10:advmod:cmp	_
 17	samo	samo	ADV	adv:pos	Degree=Pos	16	fixed	16:fixed	SpaceAfter=No
 18	,	,	PUNCT	interp	PunctType=Comm	20	punct	20:punct	_
 19	jak	jak	SCONJ	comp	_	20	mark	20:mark	_
@@ -4122,7 +4122,7 @@
 24	afrykańskiego	afrykański	ADJ	adj:sg:gen:m1:pos	Animacy=Hum|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	22	amod	22:amod	SpaceAfter=No
 25	,	,	PUNCT	interp	PunctType=Comm	27	punct	27:punct	_
 26	niż	niż	SCONJ	comp	ConjType=Comp	27	mark	27:mark	_
-27	Ty	ty	PRON	ppron12:sg:nom:m1:sec	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	22	acl:cmpr	22:acl:cmpr	SpaceAfter=No
+27	Ty	ty	PRON	ppron12:sg:nom:m1:sec	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	22	acl:cmp	22:acl:cmp	SpaceAfter=No
 28	”	”	PUNCT	interp	PunctSide=Fin|PunctType=Quot	9	punct	9:punct	SpaceAfter=No
 29	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	_
 
@@ -4237,7 +4237,7 @@
 15	konfrontuje	konfrontować	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	10:ccomp	SpaceAfter=No
 16	,	,	PUNCT	interp	PunctType=Comm	18	punct	18:punct	_
 17	niż	niż	SCONJ	comp	ConjType=Comp	18	mark	18:mark	_
-18	kiedy	kiedy	ADV	adv	PronType=Int	15	advcl:cmpr	15:advcl:cmpr	_
+18	kiedy	kiedy	ADV	adv	PronType=Int	15	advcl:cmp	15:advcl:cmp	_
 19	mnie	ja	PRON	ppron12:sg:gen:m1:pri:akc	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Long	20	obj	20:obj	_
 20	unika	unikać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	ccomp	18:ccomp	SpaceAfter=No
 21	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
@@ -4251,7 +4251,7 @@
 4	piłkę	piłka	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
 5	jak	jak	SCONJ	comp	ConjType=Comp	7	mark	7:mark	_
 6	przy	przy	ADP	prep:loc	AdpType=Prep	7	case	7:case	Case=Loc
-7	grze	gra	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	3	advcl:cmpr	3:advcl:cmpr	_
+7	grze	gra	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	3	advcl:cmp	3:advcl:cmp	_
 8	w	w	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Acc
 9	trzy	trzy	NUM	num:pl:acc:m3:congr:ncol	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumForm=Word	10	nummod	10:nummod	_
 10	kubki	kubek	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	nmod	7:nmod	SpaceAfter=No
@@ -6283,7 +6283,7 @@
 29	plastiku	plastik	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	nsubj	27:nsubj	SpaceAfter=No
 30	,	,	PUNCT	interp	PunctType=Comm	32	punct	32:punct	_
 31	niż	niż	SCONJ	comp	ConjType=Comp	32	mark	32:mark	_
-32	ryb	ryba	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	27	advcl:cmpr	27:advcl:cmpr	SpaceAfter=No
+32	ryb	ryba	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	27	advcl:cmp	27:advcl:cmp	SpaceAfter=No
 33	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	_
 
 # sent_id = n01113021
@@ -7260,7 +7260,7 @@
 7	1	1	ADJ	adj:sg:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	8	amod	8:amod	SpaceAfter=No
 8	%	procent	NOUN	brev:npun	Abbr=Yes	5	obl	5:obl	SpaceAfter=No
 9	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
-10	podobnie	podobnie	ADV	adv:pos	Degree=Pos	5	obl:cmpr	5:obl:cmpr	SpaceAfter=No
+10	podobnie	podobnie	ADV	adv:pos	Degree=Pos	5	advmod:cmp	5:advmod:cmp	SpaceAfter=No
 11	,	,	PUNCT	interp	PunctType=Comm	14	punct	14:punct	_
 12	jak	jak	SCONJ	comp	_	14	mark	14:mark	_
 13	na	na	ADP	prep:loc	AdpType=Prep	14	case	14:case	Case=Loc
@@ -7680,7 +7680,7 @@
 16	więcej	więcej	DET	num:sg:acc:n:rec	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	15	nmod	15:nmod	SpaceAfter=No
 17	,	,	PUNCT	interp	PunctType=Comm	19	punct	19:punct	_
 18	niż	niż	SCONJ	comp	ConjType=Comp	19	mark	19:mark	_
-19	narzędzia	narzędzie	NOUN	subst:pl:nom:n:ncol	Case=Nom|Gender=Neut|Number=Plur	15	acl:cmpr	15:acl:cmpr	_
+19	narzędzia	narzędzie	NOUN	subst:pl:nom:n:ncol	Case=Nom|Gender=Neut|Number=Plur	15	acl:cmp	15:acl:cmp	_
 20	sprzyjające	sprzyjać	ADJ	pact:pl:nom:n:imperf:aff	Aspect=Imp|Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Act	19	amod	19:amod	_
 21	produktywności	produktywność	NOUN	subst:sg:dat:f	Case=Dat|Gender=Fem|Number=Sing	20	iobj	20:iobj	SpaceAfter=No
 22	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
@@ -7830,7 +7830,7 @@
 15	się	się	PRON	part	PronType=Prs|Reflex=Yes	14	expl:pv	14:expl:pv	_
 16	jak	jak	SCONJ	comp	ConjType=Comp	18	mark	18:mark	_
 17	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	18	case	18:case	Case=Loc
-18	domu	dom	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	advcl:cmpr	14:advcl:cmpr	SpaceAfter=No
+18	domu	dom	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	advcl:cmp	14:advcl:cmp	SpaceAfter=No
 19	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
 
 # sent_id = n01144023
@@ -8082,7 +8082,7 @@
 8	nowoczesnych	nowoczesny	ADJ	adj:pl:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	9	amod	9:amod	_
 9	wieżowców	wieżowiec	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod:arg	6:nmod:arg	SpaceAfter=No
 10	,	,	PUNCT	interp	PunctType=Comm	11	punct	11:punct	_
-11	takich	taki	DET	adj:pl:gen:m3:pos	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	9	amod:cmpr	9:amod:cmpr	_
+11	takich	taki	DET	adj:pl:gen:m3:pos	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	9	amod:cmp	9:amod:cmp	_
 12	jak	jak	SCONJ	comp	_	14	mark	14:mark	_
 13	wizjonerski	wizjonerski	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	14:amod	_
 14	MahaNaknon	MahaNaknon	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	ccomp	11:ccomp	SpaceAfter=No
@@ -8201,7 +8201,7 @@
 10	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux:pass	9:aux:pass	_
 11	to	to	PRON	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj:pass	9:nsubj:pass	_
 12	jak	jak	SCONJ	comp	ConjType=Comp	13	mark	13:mark	_
-13	święto	święto	NOUN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	9	advcl:cmpr	9:advcl:cmpr	SpaceAfter=No
+13	święto	święto	NOUN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	9	advcl:cmp	9:advcl:cmp	SpaceAfter=No
 14	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	_
 
 # sent_id = n01150042
@@ -8359,7 +8359,7 @@
 8	oraz	oraz	CCONJ	conj	_	9	cc	9:cc	_
 9	wyspy	wyspa	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	5	conj	4:nsubj|5:conj	_
 10	wulkaniczne	wulkaniczny	ADJ	adj:pl:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	9	amod	9:amod	_
-11	takie	taki	DET	adj:pl:nom:f:pos	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	9	amod:cmpr	9:amod:cmpr	_
+11	takie	taki	DET	adj:pl:nom:f:pos	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	9	amod:cmp	9:amod:cmp	_
 12	jak	jak	SCONJ	comp	_	13	mark	13:mark	_
 13	Wyspa	wyspa	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	11	ccomp	11:ccomp	_
 14	Świętej	święty	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	15:amod	_
@@ -9186,7 +9186,7 @@
 3	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop|16:cop	_
 4	podobny	podobny	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	0:root	_
 5	do	do	ADP	prep:gen	AdpType=Prep	6	case	6:case	Case=Gen
-6	klimatu	klimat	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl:cmpr	4:obl:cmpr	_
+6	klimatu	klimat	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl:cmp	4:obl:cmp	_
 7	pustyni	pustynia	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod	_
 8	Sahara	Sahara	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
 9	położonej	położyć	ADJ	ppas:sg:gen:f:perf:aff	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	7	amod	7:amod	_
@@ -9395,7 +9395,7 @@
 # text_en = Like fjords, freshwater lakes are often deep.
 1	Podobnie	podobnie	ADV	adv:pos	Degree=Pos	9	advmod	9:advmod	_
 2	jak	jak	SCONJ	comp	ConjType=Comp	3	mark	3:mark	_
-3	fiordy	fiord	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	advcl:cmpr	1:advcl:cmpr	SpaceAfter=No
+3	fiordy	fiord	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	advcl:cmp	1:advcl:cmp	SpaceAfter=No
 4	,	,	PUNCT	interp	PunctType=Comm	1	punct	1:punct	_
 5	jeziora	jezioro	NOUN	subst:pl:nom:n:ncol	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	9:nsubj	_
 6	słodkowodne	słodkowodny	ADJ	adj:pl:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	amod	5:amod	_
@@ -9411,7 +9411,7 @@
 2	napoje	napój	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	_
 3	alkoholowe	alkoholowy	ADJ	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	2	amod	2:amod	SpaceAfter=No
 4	,	,	PUNCT	interp	PunctType=Comm	5	punct	5:punct	_
-5	takie	taki	DET	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	2	amod:cmpr	2:amod:cmpr	_
+5	takie	taki	DET	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	2	amod:cmp	2:amod:cmp	_
 6	jak	jak	SCONJ	comp	_	7	mark	7:mark|9:mark|11:mark	_
 7	piwo	piwo	NOUN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	5	ccomp	5:ccomp	SpaceAfter=No
 8	,	,	PUNCT	interp	PunctType=Comm	9	punct	9:punct	_
@@ -9848,7 +9848,7 @@
 # text = Miasta takie jak Mediolan są w 80% zależne od wody spływającej z Alp.
 # text_en = Cities such as Milan depend on 80 percent of water from Alpine runoff.
 1	Miasta	miasto	NOUN	subst:pl:nom:n:ncol	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	9:nsubj	_
-2	takie	taki	DET	adj:pl:nom:n:pos	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	1	amod:cmpr	1:amod:cmpr	_
+2	takie	taki	DET	adj:pl:nom:n:pos	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	1	amod:cmp	1:amod:cmp	_
 3	jak	jak	SCONJ	comp	_	4	mark	4:mark	_
 4	Mediolan	Mediolan	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	ccomp	2:ccomp	_
 5	są	być	AUX	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
@@ -9890,7 +9890,7 @@
 2	rzeki	rzeka	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	17	nsubj	17:nsubj|23:nsubj|28:nsubj	_
 3	Europy	Europa	PROPN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
 4	,	,	PUNCT	interp	PunctType=Comm	5	punct	5:punct	_
-5	takie	taki	DET	adj:pl:nom:f:pos	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	2	amod:cmpr	2:amod:cmpr	_
+5	takie	taki	DET	adj:pl:nom:f:pos	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	2	amod:cmp	2:amod:cmp	_
 6	jak	jak	SCONJ	comp	_	7	mark	7:mark|9:mark|11:mark|13:mark|15:mark	_
 7	Ren	Ren	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	ccomp	5:ccomp	SpaceAfter=No
 8	,	,	PUNCT	interp	PunctType=Comm	9	punct	9:punct	_
@@ -10104,7 +10104,7 @@
 7	na	na	ADP	prep:acc	AdpType=Prep	8	case	8:case	Case=Acc
 8	klęski	klęska	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	5	nmod:arg	5:nmod:arg	_
 9	żywiołowe	żywiołowy	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	8	amod	8:amod	_
-10	takie	taki	DET	adj:pl:acc:f:pos	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	8	amod:cmpr	8:amod:cmpr	_
+10	takie	taki	DET	adj:pl:acc:f:pos	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	8	amod:cmp	8:amod:cmp	_
 11	jak	jak	SCONJ	comp	_	12	mark	12:mark|14:mark	_
 12	powódź	powódź	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	10	ccomp	10:ccomp	_
 13	czy	czy	CCONJ	conj	_	14	cc	14:cc	_
@@ -10570,7 +10570,7 @@
 7	masowy	masowy	ADJ	adj:sg:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	_
 8	wzrost	wzrost	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	_
 9	problemów	problem	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod:arg	8:nmod:arg	_
-10	takich	taki	DET	adj:pl:gen:m3:pos	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	9	amod:cmpr	9:amod:cmpr	_
+10	takich	taki	DET	adj:pl:gen:m3:pos	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	9	amod:cmp	9:amod:cmp	_
 11	jak	jak	SCONJ	comp	_	12	mark	12:mark	_
 12	otyłość	otyłość	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	10	ccomp	10:ccomp	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
@@ -11009,7 +11009,7 @@
 4	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	6	case	6:case	Case=Ins
 5	prostymi	prosty	ADJ	adj:pl:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	6	amod	6:amod	_
 6	strukturami	struktura	NOUN	subst:pl:inst:f	Case=Ins|Gender=Fem|Number=Plur	2	obl:arg	2:obl:arg	_
-7	takimi	taki	DET	adj:pl:inst:f:pos	Case=Ins|Gender=Fem|Number=Plur|PronType=Dem	6	amod:cmpr	6:amod:cmpr	_
+7	takimi	taki	DET	adj:pl:inst:f:pos	Case=Ins|Gender=Fem|Number=Plur|PronType=Dem	6	amod:cmp	6:amod:cmp	_
 8	jak	jak	SCONJ	comp	_	9	mark	9:mark|12:mark|14:mark	_
 9	tereny	teren	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	ccomp	7:ccomp	_
 10	piknikowe	piknikowy	ADJ	adj:pl:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	amod	9:amod	SpaceAfter=No
@@ -11450,7 +11450,7 @@
 17	rejonie	rejon	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	14:obl	_
 18	śródziemnomorskim	śródziemnomorski	ADJ	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	17:amod	SpaceAfter=No
 19	,	,	PUNCT	interp	PunctType=Comm	20	punct	20:punct	_
-20	podobnie	podobnie	ADV	adv:pos	Degree=Pos	14	obl:cmpr	14:obl:cmpr	SpaceAfter=No
+20	podobnie	podobnie	ADV	adv:pos	Degree=Pos	14	advmod:cmp	14:advmod:cmp	SpaceAfter=No
 21	,	,	PUNCT	interp	PunctType=Comm	24	punct	24:punct	_
 22	jak	jak	SCONJ	comp	_	24	mark	24:mark	_
 23	wcześniej	wcześnie	ADV	adv:com	Degree=Cmp	24	advmod	24:advmod	_
@@ -11770,7 +11770,7 @@
 33	,	,	PUNCT	interp	PunctType=Comm	36	punct	36:punct	_
 34	niż	niż	SCONJ	comp	ConjType=Comp	36	mark	36:mark	_
 35	nad	nad	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	36	case	36:case	Case=Ins
-36	wprowadzeniem	wprowadzić	NOUN	ger:sg:inst:n:perf:aff	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	26	advcl:cmpr	26:advcl:cmpr	_
+36	wprowadzeniem	wprowadzić	NOUN	ger:sg:inst:n:perf:aff	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	26	advcl:cmp	26:advcl:cmp	_
 37	ich	on	PRON	ppron3:pl:acc:m3:ter:akc:npraep	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	36	obj	36:obj	_
 38	jako	jako	SCONJ	comp	ConjType=Pred	39	mark	39:mark	_
 39	praw	prawo	NOUN	subst:pl:gen:n:ncol	Case=Gen|Gender=Neut|Number=Plur	36	nmod	36:nmod	SpaceAfter=No
@@ -12680,7 +12680,7 @@
 27	1	1	ADJ	adj:sg:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	28	amod	28:amod	SpaceAfter=No
 28	%	procent	NOUN	brev:npun	Abbr=Yes	25	obl	25:obl	_
 29	niż	niż	SCONJ	comp	ConjType=Comp	30	mark	30:mark	_
-30	średnia	średnia	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	25	acl:cmpr	25:acl:cmpr	_
+30	średnia	średnia	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	25	acl:cmp	25:acl:cmp	_
 31	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	32	case	32:case	Case=Loc
 32	badaniu	badanie	NOUN	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing	30	nmod	30:nmod	_
 33	skutkowało	skutkować	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	14:advcl	_
@@ -13165,7 +13165,7 @@
 10	okresie	okres	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	5:obl	SpaceAfter=No
 11	,	,	PUNCT	interp	PunctType=Comm	13	punct	13:punct	_
 12	co	co	ADP	prep:nom	AdpType=Prep	13	case	13:case	Case=Nom
-13	Sukhothai	Sukhothai	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	10	nmod:cmpr	10:nmod:cmpr	SpaceAfter=No
+13	Sukhothai	Sukhothai	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	10	nmod:cmp	10:nmod:cmp	SpaceAfter=No
 14	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	_
 
 # sent_id = w01084102
@@ -14473,7 +14473,7 @@
 10	autorami	autor	NOUN	subst:pl:inst:m1	Animacy=Hum|Case=Ins|Gender=Masc|Number=Plur	6	nmod	6:nmod	_
 11	plakatów	plakat	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	10:nmod	_
 12	filmowych	filmowy	ADJ	adj:pl:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	11	amod	11:amod	_
-13	takimi	taki	DET	adj:pl:inst:m1:pos	Animacy=Hum|Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	10	amod:cmpr	10:amod:cmpr	_
+13	takimi	taki	DET	adj:pl:inst:m1:pos	Animacy=Hum|Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	10	amod:cmp	10:amod:cmp	_
 14	jak	jak	SCONJ	comp	_	15	mark	15:mark|18:mark	_
 15	Bill	Bill	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	13	ccomp	13:ccomp	_
 16	Gold	Gold	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	15	flat	15:flat	_
@@ -14689,7 +14689,7 @@
 14	zakupu	zakup	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	9:obl	_
 15	pomocy	pomoc	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	14	nmod:arg	14:nmod:arg	_
 16	szkolnych	szkolny	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	15	amod	15:amod	_
-17	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	15	amod:cmpr	15:amod:cmpr	_
+17	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	15	amod:cmp	15:amod:cmp	_
 18	jak	jak	SCONJ	comp	_	19	mark	19:mark|21:mark	_
 19	książki	książka	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	17	ccomp	17:ccomp	_
 20	czy	czy	CCONJ	conj	_	21	cc	21:cc	_
@@ -17016,7 +17016,7 @@
 4	czy	czy	CCONJ	conj	_	5	cc	5:cc	_
 5	produkty	produkt	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	1:conj|11:nsubj	_
 6	spożywcze	spożywczy	ADJ	adj:pl:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	amod	5:amod	_
-7	takie	taki	DET	adj:pl:nom:m3:pos	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	5	amod:cmpr	5:amod:cmpr	_
+7	takie	taki	DET	adj:pl:nom:m3:pos	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	5	amod:cmp	5:amod:cmp	_
 8	jak	jak	SCONJ	comp	_	9	mark	9:mark	_
 9	pszenica	pszenica	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	7	ccomp	7:ccomp	_
 10	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	11	cop	11:cop	_
@@ -17111,7 +17111,7 @@
 7	taka	taki	DET	adj:sg:nom:f:pos	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	14	advcl	14:advcl	SpaceAfter=No
 8	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
 9	jak	jak	SCONJ	comp	ConjType=Comp	10	mark	10:mark	_
-10	wcześniej	wcześnie	ADV	adv:com	Degree=Cmp	7	acl:cmpr	7:acl:cmpr	SpaceAfter=No
+10	wcześniej	wcześnie	ADV	adv:com	Degree=Cmp	7	advcl:cmp	7:advcl:cmp	SpaceAfter=No
 11	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	_
 12	wielu	wiele	DET	num:pl:nom:m1:rec	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	13	det:numgov	13:det:numgov	_
 13	użytkowników	użytkownik	NOUN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	14	nsubj	14:nsubj	_
@@ -17375,7 +17375,7 @@
 5	organy	organ	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	_
 6	jak	jak	SCONJ	comp	ConjType=Comp	8	mark	8:mark	_
 7	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	8	case	8:case	Case=Loc
-8	hicie	hit	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	advcl:cmpr	2:advcl:cmpr	_
+8	hicie	hit	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	advcl:cmp	2:advcl:cmp	_
 9	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Gen
 10	lat	rok	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod	_
 11	60	60	ADJ	adj:pl:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Ord	10	amod	10:amod	SpaceAfter=No
@@ -18471,7 +18471,7 @@
 14	prawdopodobne	prawdopodobny	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	12	amod	12:amod	SpaceAfter=No
 15	,	,	PUNCT	interp	PunctType=Comm	17	punct	17:punct	_
 16	co	co	SCONJ	comp	_	17	mark	17:mark	_
-17	nieakceptowalne	nieakceptowalny	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	acl:cmpr	14:acl:cmpr	SpaceAfter=No
+17	nieakceptowalne	nieakceptowalny	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	acl:cmp	14:acl:cmp	SpaceAfter=No
 18	”	”	PUNCT	interp	PunctSide=Fin|PunctType=Quot	10	punct	10:punct	SpaceAfter=No
 19	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
@@ -18606,7 +18606,7 @@
 9	metra	metr	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod:arg	8:nmod:arg	SpaceAfter=No
 10	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	_
 11	niż	niż	SCONJ	comp	ConjType=Comp	12	mark	12:mark	_
-12	Madryt	Madryt	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	advcl:cmpr	6:advcl:cmpr	SpaceAfter=No
+12	Madryt	Madryt	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	advcl:cmp	6:advcl:cmp	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
 # sent_id = n04002027
@@ -18770,7 +18770,7 @@
 22	w	w	ADP	prep:loc:nwok	AdpType=Prep|ExtPos=ADP|Variant=Short	25	case	25:case	Case=Loc
 23	porównaniu	porównanie	NOUN	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing	22	fixed	22:fixed	_
 24	ze	z	ADP	prep:inst:wok	AdpType=Prep|Variant=Long	22	fixed	22:fixed	Case=Ins
-25	średnią	średni	ADJ	adj:sg:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	17	obl:cmpr	17:obl:cmpr	_
+25	średnią	średni	ADJ	adj:sg:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	17	obl:cmp	17:obl:cmp	_
 26	1.165	1165	X	dig	NumForm=Digit	25	obl	25:obl	_
 27	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	28	case	28:case	Case=Loc
 28	strefie	strefa	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	25	obl	25:obl	_
@@ -19009,7 +19009,7 @@
 11	Street	Street	PROPN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	flat	10:flat	_
 12	bardziej	bardzo	ADV	adv:com	Degree=Cmp	7	advmod	7:advmod	_
 13	niż	niż	SCONJ	comp	ConjType=Comp	14	mark	14:mark	_
-14	kiedykolwiek	kiedykolwiek	ADV	adv	PronType=Ind	12	advcl:cmpr	12:advcl:cmpr	SpaceAfter=No
+14	kiedykolwiek	kiedykolwiek	ADV	adv	PronType=Ind	12	advcl:cmp	12:advcl:cmp	SpaceAfter=No
 15	,	,	PUNCT	interp	PunctType=Comm	19	punct	19:punct	_
 16	nawet	nawet	PART	part	_	19	advmod:emph	19:advmod:emph	_
 17	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	19	case	19:case	Case=Loc
@@ -19018,7 +19018,7 @@
 20	,	,	PUNCT	interp	PunctType=Comm	23	punct	23:punct	_
 21	niż	niż	SCONJ	comp	ConjType=Comp	23	mark	23:mark	_
 22	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	23	case	23:case	Case=Loc
-23	Dolinie	dolina	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	7	advcl:cmpr	7:advcl:cmpr	_
+23	Dolinie	dolina	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	7	advcl:cmp	7:advcl:cmp	_
 24	Krzemowej	krzemowy	ADJ	adj:sg:loc:f:pos	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	23	amod:flat	23:amod:flat	SpaceAfter=No
 25	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	_
 
@@ -19046,7 +19046,7 @@
 # text_en = Leaders of companies such as Spotify, Tesla, Uber and Snapchat will attend a private event in addition to the Mountain View Summit.
 1	Szefowie	szef	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	12:nsubj	_
 2	firm	firma	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	1	nmod:arg	1:nmod:arg	_
-3	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	2	amod:cmpr	2:amod:cmpr	_
+3	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	2	amod:cmp	2:amod:cmp	_
 4	jak	jak	SCONJ	comp	_	5	mark	5:mark|7:mark|9:mark|11:mark	_
 5	Spotify	Spotify	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	3	ccomp	3:ccomp	SpaceAfter=No
 6	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	_
@@ -19084,7 +19084,7 @@
 13	przywódcy	przywódca	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	22:nsubj	_
 14	partii	partia	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	13	nmod:arg	13:nmod:arg	SpaceAfter=No
 15	,	,	PUNCT	interp	PunctType=Comm	16	punct	16:punct	_
-16	tacy	taki	DET	adj:pl:nom:m1:pos	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	13	amod:cmpr	13:amod:cmpr	_
+16	tacy	taki	DET	adj:pl:nom:m1:pos	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	13	amod:cmp	13:amod:cmp	_
 17	jak	jak	SCONJ	comp	_	18	mark	18:mark	_
 18	wicesekretarz	wicesekretarz	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	16	ccomp	16:ccomp	_
 19	Javier	Javier	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	18	appos	18:appos	_
@@ -19137,7 +19137,7 @@
 21	osób	osoba	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	16	nsubj	16:nsubj	SpaceAfter=No
 22	,	,	PUNCT	interp	PunctType=Comm	24	punct	24:punct	_
 23	niż	niż	SCONJ	comp	ConjType=Comp	24	mark	24:mark	_
-24	rok	rok	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	advcl:cmpr	16:advcl:cmpr	_
+24	rok	rok	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	advcl:cmp	16:advcl:cmp	_
 25	temu	temu	ADP	prep:acc	AdpType=Post|Case=Acc	24	case	24:case	SpaceAfter=No
 26	.	.	PUNCT	interp	PunctType=Peri	11	punct	11:punct	_
 
@@ -19282,7 +19282,7 @@
 4	jak	jak	SCONJ	comp	ConjType=Comp	7	mark	7:mark	_
 5	wielu	wiele	DET	num:pl:nom:m1:rec	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	7	det:numgov	7:det:numgov	_
 6	innych	inny	ADJ	adj:pl:gen:m1:pos	Animacy=Hum|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	7:amod	_
-7	socjalistów	socjalista	NOUN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	9	advcl:cmpr	9:advcl:cmpr	SpaceAfter=No
+7	socjalistów	socjalista	NOUN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	9	advcl:cmp	9:advcl:cmp	SpaceAfter=No
 8	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	_
 9	powiedział	powiedzieć	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 10	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	11	case	11:case	Case=Loc
@@ -20010,7 +20010,7 @@
 # sent_id = w02008028
 # text = Podobnie, jak w przypadku większości stanowisk w południowej Europie, znalezisko datuje się na początek V wieku p.n.e.
 # text_en = Like the majority of sites in southern Europe, the finding dates back to the early 5th century BC.
-1	Podobnie	podobnie	ADV	adv:pos	Degree=Pos	13	obl:cmpr	13:obl:cmpr	SpaceAfter=No
+1	Podobnie	podobnie	ADV	adv:pos	Degree=Pos	13	advmod:cmp	13:advmod:cmp	SpaceAfter=No
 2	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
 3	jak	jak	SCONJ	comp	_	6	mark	6:mark	_
 4	w	w	ADP	prep:loc:nwok	AdpType=Prep|ExtPos=ADP|Variant=Short	6	case	6:case	Case=Loc
@@ -20209,7 +20209,7 @@
 9	niż	niż	SCONJ	comp	ConjType=Comp	12	mark	12:mark	_
 10	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	12	case	12:case	Case=Loc
 11	innych	inny	ADJ	adj:pl:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	12	amod	12:amod	_
-12	krajach	kraj	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	advcl:cmpr	3:advcl:cmpr	SpaceAfter=No
+12	krajach	kraj	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	advcl:cmp	3:advcl:cmp	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	_
 
 # sent_id = w02013033
@@ -20223,7 +20223,7 @@
 6	potęg	potęga	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	4	nmod:poss	4:nmod:poss	_
 7	kolonialnych	kolonialny	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	6	amod	6:amod	SpaceAfter=No
 8	,	,	PUNCT	interp	PunctType=Comm	9	punct	9:punct	_
-9	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	6	amod:cmpr	6:amod:cmpr	_
+9	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	6	amod:cmp	6:amod:cmp	_
 10	jak	jak	SCONJ	comp	_	12	mark	12:mark|14:mark	_
 11	Wielka	Wielki	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod:flat	12:amod:flat	_
 12	Brytania	Brytania	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	9	ccomp	9:ccomp	_
@@ -21583,7 +21583,7 @@
 28	jakiegokolwiek	jakikolwiek	DET	adj:sg:gen:n:pos	Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	29	det	29:det	_
 29	porozumienia	porozumienie	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	27	obj	27:obj	SpaceAfter=No
 30	,	,	PUNCT	interp	PunctType=Comm	31	punct	31:punct	_
-31	tak	tak	ADV	adv:pos	Degree=Pos|ExtPos=ADV|PronType=Dem	27	obl:cmpr	27:obl:cmpr	_
+31	tak	tak	ADV	adv:pos	Degree=Pos|ExtPos=ADV|PronType=Dem	27	advmod:cmp	27:advmod:cmp	_
 32	samo	samo	ADV	adv:pos	Degree=Pos	31	fixed	31:fixed	SpaceAfter=No
 33	,	,	PUNCT	interp	PunctType=Comm	35	punct	35:punct	_
 34	jak	jak	SCONJ	comp	_	35	mark	35:mark	_
