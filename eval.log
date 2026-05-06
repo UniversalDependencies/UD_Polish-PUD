@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Polish-PUD:
-commit b981fea86b7614a8ab161c952047a1c7a1e59741
-Merge: 8b1db51 aa2cd92
+commit 16bde1ce8fe49b6e9e8ed1c09894d77df5a90729
+Merge: a726e58 888f7ff
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'pl_pud'
@@ -19,39 +19,14 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 17203 out of 18384 total words have one or more features.
+Features: 17197 out of 18384 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang pl --max-err=10 UD_Polish-PUD/pl_pud-ud-test.conllu
-[Line 6 Sent n01001011]: [L3 Warning fixed-without-extpos] Fixed expression 'W przeciwieństwie do' does not have the 'ExtPos' feature
-[Line 89 Sent n01002017]: [L3 Warning fixed-without-extpos] Fixed expression 'w oparciu o' does not have the 'ExtPos' feature
-[Line 189 Sent n01003010]: [L3 Warning fixed-without-extpos] Fixed expression 'tym samym' does not have the 'ExtPos' feature
-[Line 198 Sent n01003010]: [L3 Warning fixed-without-extpos] Fixed expression 'między innymi' does not have the 'ExtPos' feature
-[Line 198 Sent n01003010]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('między')
-[Line 204 Sent n01003010]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 203 Sent n01003010]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 205 Sent n01003010]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 204 Sent n01003010]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 205 Sent n01003010]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 207 Sent n01003010]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-...suppressing further errors regarding Warning
-[Line 239 Sent n01003013]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' ('Być')
-[Line 252 Sent n01004009]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('Na')
-[Line 450 Sent n01009027]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' ('być')
-[Line 705 Sent n01015036]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' ('być')
-[Line 832 Sent n01017008]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' ('być')
-[Line 845 Sent n01017008]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('w')
-[Line 1590 Sent n01028022]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('Na')
-[Line 3358 Sent n01055038]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' ('być')
-[Line 3373 Sent n01055047]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('w')
-...suppressing further errors regarding Syntax
-Syntax errors: 36
-Warnings: 244
-*** FAILED *** with 36 errors
-Exit code: 1
-Validity: 0.01
+*** PASSED ***
+Validity: 1
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
@@ -59,6 +34,6 @@ Validity: 0.01
 (weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
 (weight=0.111111111111111) * (score{tags}=0.705882352941177) = 0.0784313725490196
 (weight=0.111111111111111) * (score{udeprels}=0.648648648648649) = 0.0720720720720721
-(TOTAL score=0.521915791700624) * (availability=1) * (validity=0.01) = 0.00521915791700624
-STARS = 0
-UD_Polish-PUD	0.00521915791700624	0
+(TOTAL score=0.521915791700624) * (availability=1) * (validity=1) = 0.521915791700624
+STARS = 2.5
+UD_Polish-PUD	0.521915791700624	2.5
