@@ -11,7 +11,7 @@
     <test><sentences>1000</sentences><tokens>18333</tokens><words>18384</words><fused>49</fused></test>
   </size>
   <lemmas unique="4989" /><!-- ., ,, w, być, i, z, na, się, on, rok, do, to, który, nie, ten -->
-  <forms unique="7533" /><!-- ., ,, w, i, z, na, się, do, jest, nie, że, r, ”, „, to -->
+  <forms unique="7532" /><!-- ., ,, w, i, z, na, się, do, jest, nie, że, r, ”, „, to -->
   <fusions unique="46" /><!-- byłoby, mogłoby, znałem, Byłbym, Byłem, Chciałam, Chciałby, Dotyczyłoby, Obejrzałem, Poprosiliśmy, Uwielbiałem, Zapytałem, Zauważyłem, byliśmy, byłaby -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">

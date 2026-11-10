@@ -20833,7 +20833,7 @@
 18	równoległego	równoległy	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	amod	21:amod	_
 19-20	doń	_	_	_	_	_	_	_	_
 19	do	do	ADP	prep:gen	AdpType=Prep	20	case	20:case	Case=Gen
-20	ń	on	PRON	ppron3:sg:gen:m3:ter:nakc:praep	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs|Variant=Short	18	obl:arg	18:obl:arg	_
+20	niego	on	PRON	ppron3:sg:gen:m3:ter:nakc:praep	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs|Variant=Short	18	obl:arg	18:obl:arg	_
 21	kanału	kanał	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod:arg	17:nmod:arg	_
 22	stambulskiego	stambulski	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	amod	21:amod	SpaceAfter=No
 23	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	_
