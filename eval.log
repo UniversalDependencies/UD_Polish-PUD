@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Polish-PUD:
-commit 16bde1ce8fe49b6e9e8ed1c09894d77df5a90729
-Merge: a726e58 888f7ff
+commit 40c9b496343e6b67d223eb733f43db5942019449
+Merge: 1ab38f2 4ef4759
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'pl_pud'
